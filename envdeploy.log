@@ -1,0 +1,6 @@
+[2023-02-12 18:11:54,755] INFO: Download... https://dataupdate7.synology.com/toolchain/v1/get_download_list?identify=toolkit&version=7.0&platform=base
+[2023-02-12 18:12:43,966] INFO: Download... https://dataupdate7.synology.com/toolchain/v1/get_download_list?identify=toolkit&version=7.0&platform=apollolake
+[2023-02-12 18:13:15,817] INFO: tar -xhf /home/aejo/nodered-contrib-synopackage/toolkit_tarballs/base_env-7.0.txz -C /home/aejo/nodered-contrib-synopackage/build_env/ds.apollolake-7.0
+[2023-02-12 18:16:10,434] INFO: tar -xhf /home/aejo/nodered-contrib-synopackage/toolkit_tarballs/ds.apollolake-7.0.env.txz -C /home/aejo/nodered-contrib-synopackage/build_env/ds.apollolake-7.0
+[2023-02-12 18:16:42,665] INFO: tar -xhf /home/aejo/nodered-contrib-synopackage/toolkit_tarballs/ds.apollolake-7.0.dev.txz -C /home/aejo/nodered-contrib-synopackage/build_env/ds.apollolake-7.0
+[2023-02-12 18:17:35,834] INFO: All task finished.

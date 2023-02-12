@@ -1,0 +1,3 @@
+[submodule "pkgscripts-ng"]
+	path = pkgscripts-ng
+	url = https://github.com/SynologyOpenSource/pkgscripts-ng
